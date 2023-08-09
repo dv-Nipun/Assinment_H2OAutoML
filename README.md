@@ -1,7 +1,7 @@
 # Assinment_H2OAutoML
 # Code Explanation
 
-# The provided Jupyter Notebook H2O_AutoML_Example.ipynb contains the code for using H2O AutoML on the Iris dataset. It covers the following steps:
+ The provided Jupyter Notebook H2O_AutoML_Example.ipynb contains the code for using H2O AutoML on the Iris dataset. It covers the following steps:
 
     Installing the H2O library and initializing a local H2O cluster.
     Loading the dataset and splitting it into training and validation sets.
